@@ -1,7 +1,7 @@
 {
   "main.css": "/TextEditor/static/css/main.1e0152db.chunk.css",
-  "main.js": "/TextEditor/static/js/main.1ad55b63.chunk.js",
-  "main.js.map": "/TextEditor/static/js/main.1ad55b63.chunk.js.map",
+  "main.js": "/TextEditor/static/js/main.f847da36.chunk.js",
+  "main.js.map": "/TextEditor/static/js/main.f847da36.chunk.js.map",
   "static/js/1.7b2e3757.chunk.js": "/TextEditor/static/js/1.7b2e3757.chunk.js",
   "static/js/1.7b2e3757.chunk.js.map": "/TextEditor/static/js/1.7b2e3757.chunk.js.map",
   "static/js/2.9a086d25.chunk.js": "/TextEditor/static/js/2.9a086d25.chunk.js",
@@ -10,6 +10,6 @@
   "runtime~main.js.map": "/TextEditor/static/js/runtime~main.da0e01c2.js.map",
   "static/css/main.1e0152db.chunk.css.map": "/TextEditor/static/css/main.1e0152db.chunk.css.map",
   "index.html": "/TextEditor/index.html",
-  "precache-manifest.1560651920f6d1f6efc5bb7d176df848.js": "/TextEditor/precache-manifest.1560651920f6d1f6efc5bb7d176df848.js",
+  "precache-manifest.e77cdbe20bf22b6fd278a79a206c548c.js": "/TextEditor/precache-manifest.e77cdbe20bf22b6fd278a79a206c548c.js",
   "service-worker.js": "/TextEditor/service-worker.js"
 }
